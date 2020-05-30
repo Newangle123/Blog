@@ -1,5 +1,5 @@
 # Blog
-* 音视频常用基础了解
+* [音视频常用基础了解](https://github.com/Newangle123/Blog/blob/master/Blog/%E9%9F%B3%E8%A7%86%E9%A2%91/%E9%9F%B3%E8%A7%86%E9%A2%91%E5%B8%B8%E7%94%A8%E5%9F%BA%E7%A1%80%E7%AE%80%E5%8D%95%E4%BA%86%E8%A7%A3.pdf)
 * 音视频采集
 * 视频存储
 * 视频裁剪拼接，音频处理
